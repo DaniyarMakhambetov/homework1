@@ -1,0 +1,56 @@
+div.bmw{
+	width:100%;
+	height:50%;
+	border:3px solid black;
+	padding-bottom:10px;
+}
+div.bmw1{
+	border-bottom:3px solid black;
+	width:100%;
+	height:15%;
+}
+div.bmw2{
+	width:100%;
+	height:85%;
+}
+img.davidich{
+	width:100%;
+}
+
+div.bmw3{
+	float:left;
+	width: 30%;	
+	border-right:2px solid black;
+}
+div.bmw4{
+	float:left;
+	width:68%;
+}
+div.porsche{
+	width:100%;
+	height:50%;
+	border:3px solid black;
+	padding-bottom:10px;
+}
+div.porsche1{
+	border-bottom:3px solid black;
+	width:100%;
+	height:15%;
+}
+div.porsche2{
+	width:100%;
+	height:85%;
+}
+img.davidich{
+	width:100%;
+}
+
+div.porsche3{
+	float:left;
+	width: 30%;	
+	border-right:2px solid black;
+}
+div.porsche4{
+	float:left;
+	width:68%;
+}
